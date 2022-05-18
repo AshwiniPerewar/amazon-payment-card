@@ -1,0 +1,59 @@
+.card1
+{
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+}
+
+
+.card-orange
+{
+   margin-top: 30px;
+   background-color: orange;
+   padding-left: 30px;
+}
+
+.card-grey
+{
+    background-color: rgb(236, 231, 231);
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.date
+{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.material-icons
+{
+    margin-top: 20px;
+    margin-right: 40px;
+    font-size: 34px;
+    
+}
+
+
+.btn
+{
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    
+}
+
+.img
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 530px;
+    margin-top: -30px;
+    border-radius: 50%;
+}
